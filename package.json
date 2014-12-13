@@ -1,0 +1,33 @@
+{
+  "name": "box-intersect-1d",
+  "version": "1.0.0",
+  "description": "Find all intersections in a set of intervals",
+  "main": "box1d.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {
+    "tape": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikolalysenko/box-intersect-1d.git"
+  },
+  "keywords": [
+    "box",
+    "interval",
+    "intersection",
+    "detect"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/box-intersect-1d/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/box-intersect-1d"
+}
