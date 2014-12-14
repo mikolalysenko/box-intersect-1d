@@ -8,9 +8,10 @@
     "test": "test"
   },
   "dependencies": {
+  },
+  "devDependencies": {
     "tape": "^3.0.3"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "tape test/*.js"
   },
